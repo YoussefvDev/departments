@@ -1,0 +1,7 @@
+[
+ {
+  robots: [{ type: "protection", struts: true, eg: 400, dlr: 8, support: false }]
+  user: [{ jid: "201066826750", lid: "6643577545", username: "xl" }]
+  owner: [{ jid: "", lid: "", username: "" }]
+  }
+]
